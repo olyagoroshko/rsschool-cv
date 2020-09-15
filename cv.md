@@ -20,3 +20,12 @@ GitHub: [https://github.com/olyagoroshko](https://github.com/olyagoroshko)
 - BEM naming methodology
 - Understanding of the basic principles of client-server web applications
 - Understanding of the basic principles of designing user interfaces
+
+## EDUCATION
+
+2017 — Present      	YANKA KUPALA STATE UNIVERSITY OF GRODNO  
+*Information Resource Management*  
+-	Algorithmization and programming
+-	Operating systems, computer networks and Internet technologies
+-	Information and strategic management
+-	Information resources, systems and technologies
