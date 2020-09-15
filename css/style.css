@@ -47,3 +47,22 @@ body{
     text-decoration: none;
     color: #080826;
 }
+
+.main-info{
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-height: 500px;
+    min-width: 560px;
+    padding: 175px 40px 40px 30px;
+}
+
+.main-info-skills {
+}
+
+.main-info-skills__list {
+    list-style-type: none;
+}
+.main-info-skills__item {
+    margin-bottom: 8px;
+}
