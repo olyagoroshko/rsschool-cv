@@ -29,3 +29,8 @@ GitHub: [https://github.com/olyagoroshko](https://github.com/olyagoroshko)
 -	Operating systems, computer networks and Internet technologies
 -	Information and strategic management
 -	Information resources, systems and technologies
+
+## LANGUAGE
+
+English — CEFR Level A2+  
+*Streamline Language School*  
