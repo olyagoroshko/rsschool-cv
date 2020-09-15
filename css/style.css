@@ -1,0 +1,103 @@
+body{
+    padding: 0;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.title{
+    margin: 0;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #080826;
+    letter-spacing: 2px;
+}
+
+.header__main {
+    width: 280px;
+    background-color: #080826;
+    padding: 95px 50px 80px 40px;
+}
+.header__name {
+    color: #fff;
+    font-size: 43px;
+    letter-spacing: 7px;
+    margin: 0;
+    font-weight: 500;
+}
+.header__position {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 23px;
+    letter-spacing: 3px;
+}
+.header__contact {
+    padding: 40px 40px;
+    min-width: 280px;
+}
+
+.header__contact_list {
+    padding: 0;
+    list-style-type: none;
+}
+
+.header__contact_item-link {
+    text-decoration: none;
+    color: #080826;
+}
+
+.main-info{
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-height: 500px;
+    min-width: 560px;
+    padding: 175px 40px 40px 30px;
+}
+
+.main-info-skills__list {
+    list-style-type: none;
+}
+.main-info-skills__item {
+    margin-bottom: 8px;
+}
+
+.main-info-education {
+    margin-top: 40px;
+}
+
+.main-info-education-place {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding-left: 40px;
+}
+
+.main-info-education-specialty {
+    margin-top: 5px;
+    padding-left: 40px;
+}
+.main-info-education__list {
+    list-style-type: none;
+    padding: 0;
+    padding-left: 45px;
+
+}
+.main-info-education__item {
+    margin-bottom: 8px;
+}
+
+.main-info-language {
+    margin-top: 40px;
+}
+
+.main-info-language__item {
+    margin-top: 15px;
+    padding-left: 40px;
+}
+.main-info-language-school {
+    margin-top: 5px;
+    padding-left: 40px;
+}
