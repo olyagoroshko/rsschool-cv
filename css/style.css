@@ -88,3 +88,16 @@ body{
 .main-info-education__item {
     margin-bottom: 8px;
 }
+
+.main-info-language {
+    margin-top: 40px;
+}
+
+.main-info-language__item {
+    margin-top: 15px;
+    padding-left: 40px;
+}
+.main-info-language-school {
+    margin-top: 5px;
+    padding-left: 40px;
+}
